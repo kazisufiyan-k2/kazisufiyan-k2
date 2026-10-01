@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,25&height=180&section=header&text=Sufiyan%20Kazi&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=55&desc=AI%2FML%20Engineer&descAlignY=75&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=170&section=header&text=Sufiyan%20Kazi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" />
 
 <img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/artificial%20intelligence%20robot.gif" width="90" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=500&height=50&lines=AI%2FML+Engineer;Applied+AI+Engineer;Building+Production+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=550&height=50&lines=AI%2FML+Engineer;Vector+Search+%26+RAG+Specialist;Building+Production+AI+Systems" alt="Typing SVG" />
 
 <p>
 <a href="https://www.linkedin.com/in/kazisufiyan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -46,7 +46,7 @@ AI chatbot automation for customer engagement, with ongoing exploration of RAG a
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/Cute%20Robot.gif" width="50" />
+<img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/Cute%20Robot.gif" width="55" />
 </div>
 
 ## 🏆 Certifications
@@ -108,9 +108,7 @@ Gujarat Technological University · 2022–2026
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/artificial%20intelligence%20robot.gif" width="60" />
-
-**Open to conversations about applied AI, product engineering, and research collaboration.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:000000&height=130&section=header&text=Let's%20Connect&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60" width="100%" />
 
 <p>
 <a href="https://www.linkedin.com/in/kazisufiyan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
