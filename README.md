@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/Cute%20Robot.gif" width="90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,25&height=180&section=header&text=Sufiyan%20Kazi&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=55&desc=AI%2FML%20Engineer&descAlignY=75&descSize=20" width="100%" />
 
-# Sufiyan Kazi
+<img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/artificial%20intelligence%20robot.gif" width="90" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=500&height=50&lines=AI%2FML+Engineer;Applied+AI+Engineer;Building+Production+AI+Systems" alt="Typing SVG" />
 
 <p>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://www.linkedin.com/in/kazisufiyan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kazisufiyanm02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://kazisufiyan-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
-<a href="https://www.linkedin.com/in/kazisufiyan"></a>
-<a href="mailto:kazisufiyanm02@gmail.com"></a>
-<a href="https://kazisufiyan-portfolio.netlify.app/"></a>
 
 </div>
 
@@ -112,12 +108,14 @@ Gujarat Technological University · 2022–2026
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/Cute%20Robot.gif" width="60" />
+<img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/artificial%20intelligence%20robot.gif" width="60" />
 
 **Open to conversations about applied AI, product engineering, and research collaboration.**
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p>
+<a href="https://www.linkedin.com/in/kazisufiyan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kazisufiyanm02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://kazisufiyan-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 </div>
