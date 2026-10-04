@@ -26,7 +26,7 @@ Always glad to connect with people building at the edge of applied AI, whether t
 
 <br>
 
-## 🧠 Areas of Depth
+## Areas of Depth
 
 ### Vector Search & Retrieval
 Benchmarked Pinecone, Milvus, ChromaDB, and pgvector on latency, recall, and indexing trade-offs, including HNSW dimensionality limits.
