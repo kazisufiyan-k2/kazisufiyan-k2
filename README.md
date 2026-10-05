@@ -16,7 +16,7 @@
 
 <br>
 
-##  👨‍💻 About Me
+## 👨‍💻 About Me
 
 Building AI-first products from zero to production, currently shaping visual search and conversational AI systems at LabhTeX, a textile-tech startup. My work sits where applied machine learning meets real-world engineering: turning ideas like embeddings and retrieval into systems that actually ship.
 
@@ -26,7 +26,7 @@ Always glad to connect with people building at the edge of applied AI, whether t
 
 <br>
 
-##  Areas of Depth
+## Areas of Depth
 
 ### Vector Search & Retrieval
 Benchmarked Pinecone, Milvus, ChromaDB, and pgvector on latency, recall, and indexing trade-offs, including HNSW dimensionality limits.
