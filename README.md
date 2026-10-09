@@ -100,7 +100,6 @@ AI chatbot automation for customer engagement, with ongoing exploration of RAG a
 <br>
 
 ## 🎓 Education
-
 **B.Tech, Computer Science & Engineering**
 Gujarat Technological University · 2022–2026
 
