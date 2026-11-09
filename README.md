@@ -90,7 +90,7 @@ AI chatbot automation for customer engagement, with ongoing exploration of RAG a
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 
 <br>
- ## 🔬 Currently Exploring
+## 🔬 Currently Exploring
 
 - Retrieval-Augmented Generation (RAG) and multi-agent AI systems
 - Cloud-native ML infrastructure at scale
