@@ -15,10 +15,10 @@
 </div>
 
 <br>
-
 ## 👨‍💻 About Me
 
-Building AI-first products from zero to production, currently shaping visual search and conversational AI systems at LabhTeX, a textile-tech startup. My work sits where applied machine learning meets real-world engineering: turning ideas like embeddings and retrieval into systems that actually ship.
+Building AI-first products from zero to production, currently shaping visual search and conversational AI systems at LabhTeX, a textile-tech startup.
+My work sits where applied machine learning meets real-world engineering: turning ideas like embeddings and retrieval into systems that actually ship.
 
 Computer Science background from Gujarat Technological University, with a growing focus on where AI meets product, automation, and scale. I care about work that moves fast in small teams and holds up in production, the startup mindset applied to serious engineering.
 
