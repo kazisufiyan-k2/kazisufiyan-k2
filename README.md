@@ -51,6 +51,7 @@ AI chatbot automation for customer engagement, with ongoing exploration of RAG a
 
 ## 🏆 Certifications
 
+
 <p align="center">
 <img src="https://img.shields.io/badge/AI%2FML%20Springboard-Infosys%20Springboard-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Agent%20Architect-IBM%20SkillBuild-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -90,6 +91,7 @@ AI chatbot automation for customer engagement, with ongoing exploration of RAG a
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 
 <br>
+
 ## 🔬 Currently Exploring
 
 - Retrieval-Augmented Generation (RAG) and multi-agent AI systems
