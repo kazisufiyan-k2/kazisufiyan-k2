@@ -63,7 +63,8 @@ AI chatbot automation for customer engagement, with ongoing exploration of RAG a
 
 ## 🛠️ Tech Stack
 
-**AI / ML & Generative AI**
+
+ **AI / ML & Generative AI**
 <br>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat" />
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat" />
