@@ -15,7 +15,7 @@
 </div>
 
 <br>
-## 👨‍💻 About Me
+ ## 👨‍💻 About Me
 
 Building AI-first products from zero to production, currently shaping visual search and conversational AI systems at LabhTeX, a textile-tech startup.
 My work sits where applied machine learning meets real-world engineering: turning ideas like embeddings and retrieval into systems that actually ship.
