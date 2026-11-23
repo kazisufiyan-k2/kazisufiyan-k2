@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/kazisufiyan-k2/kazisufiyan-k2/refs/heads/main/artificial%20intelligence%20robot.gif" width="90" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=550&height=50&lines=AI%2FML+Engineer;Vector+Search+%26+RAG+Specialist;Building+Production+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=550&height=50&lines=AI%2FML+Engineer;Building+Production+AI+Systems" alt="Typing SVG" />
 
 <p>
 <a href="https://www.linkedin.com/in/kazisufiyan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
