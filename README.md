@@ -38,7 +38,6 @@ I care about moving fast in small teams and building things that hold up in prod
 ## Areas of Depth
 
 ### Vector Search & Retrieval
-
 Benchmarked Pinecone, Milvus, ChromaDB and pgvector on latency, recall and indexing trade-offs, including HNSW dimensionality limits.
 
 ### Embedding Systems
