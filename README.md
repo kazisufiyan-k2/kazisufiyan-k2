@@ -109,7 +109,9 @@ Classical ML and NLP models trained, evaluated against baselines and published w
 <img src="https://img.shields.io/badge/Green%20Skills%20%26%20AI-Skills4Future-4CAF50?style=for-the-badge" />
 </p>
 
-<br>## 🎓 Education
+<br>
+
+## 🎓 Education
 
 **B.E., Computer Science & Engineering**
 <br>
