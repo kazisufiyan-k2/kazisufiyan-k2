@@ -115,6 +115,7 @@ Classical ML and NLP models trained, evaluated against baselines and published w
 
 **B.E., Computer Science & Engineering**
 <br>
+
 S.N. Patel Institute of Technology & Research Centre, Gujarat Technological University · 2022–2026
 
 <br>
